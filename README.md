@@ -9,4 +9,4 @@ therefore forming a "wall", of purely sticky note art.
 The idea came from a project I'm currently working on, where I draw things in this particular format, to then post them
 next to each other in one of my classrooms' walls.
 
-You can access the current state of the website from: https://zah1rdev.github.io/sticky-notes/
+You can access the current state of the website from: https://zah1rdev.github.io/the-sticky-note-wall/
